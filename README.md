@@ -1,6 +1,6 @@
-# Bayesian Hyperspherical Diffusion Models for Multi-View Graph Representation Learning and Clustering
+# Uncertainty-Aware Hyperspherical Diffusion for Multi-view Graph Clustering
 This repository contains the official implementation of the paper<br>
-**“Bayesian Hyperspherical Diffusion Models for Multi-View Graph Representation Learning and Clustering.”**
+**“Uncertainty-Aware Hyperspherical Diffusion for Multi-view Graph Clustering.”**
 
 ---
 
